@@ -10,8 +10,8 @@ Minha trajetória na tecnologia começou em 2014, quando iniciei na área de sup
 
 ## 📱 **Especialidades**
 - Desenvolvimento utilizando **Golang** e **Delphi**.
-- Bancos de Dados SQL
-- Docker e Containers
+- Bancos de Dados **SQL**
+- **Docker** e **Containers**
 - Engajado na criação de sistemas escaláveis e inovadores, aplicando conceitos avançados de engenharia de software para resolver desafios complexos e impulsionar a transformação digital.
 - Adoto práticas ágeis e boas práticas de desenvolvimento para garantir alta performance e qualidade em meus projetos.
 
@@ -22,10 +22,6 @@ Minha trajetória na tecnologia começou em 2014, quando iniciei na área de sup
 ## 📊 **Estatísticas no GitHub**
 
 ![Altair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altair-Mateus&show_icons=true&theme=dark)
-
-## 📌 **Projetos em Destaque**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=seu-projeto-exemplo&theme=dark)](https://github.com/Altair-Mateus/seu-projeto-exemplo)
 
 ## 🚀 **Linguagens Mais Usadas**
 
