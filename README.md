@@ -23,6 +23,15 @@ Minha trajetória na tecnologia começou em 2014, quando iniciei na área de sup
 
 ![Altair's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altair-Mateus&show_icons=true&theme=dark)
 
+## 📌 **Projetos em Destaque**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=vendas-ingresso&theme=dark)](https://github.com/Altair-Mateus/vendas-ingresso)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=Sistema_Financeiro&theme=dark)](https://github.com/Altair-Mateus/Sistema_Financeiro)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=DaoRTTI4D&theme=dark)](https://github.com/Altair-Mateus/DaoRTTI4D)
+
+
 ## 🚀 **Linguagens Mais Usadas**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Mateus&layout=compact&theme=dark)
