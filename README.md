@@ -1,65 +1,36 @@
-# Olá, eu sou Altair Mateus 👋
+# Olá, eu sou Altair Mateus (Altair-Mateus) 👋
 
-✨ **Desenvolvedor de Software** na [MC Sistemas](https://webmc.com.br/)  
-💡 Apaixonado por transformar ideias em soluções eficientes e bem estruturadas
+✨ **Desenvolvedor de Software** na [MC Sistemas](https://webmc.com.br/) | Impulsionado pela inovação e pelo desafio de transformar ideias em soluções de software revolucionárias
 
-Minha trajetória na tecnologia começou em 2014, na área de suporte de TI.  
-Desde então, venho evoluindo para o desenvolvimento de software, sempre focado em boas práticas, performance e soluções escaláveis.
+Minha trajetória na tecnologia começou em 2014, quando iniciei na área de suporte de TI. Desde então, venho evoluindo e me especializando no desenvolvimento de software, sempre buscando inovar e compartilhar conhecimento com a comunidade. 💡
 
----
+## 🏢 **Atuação Profissional**
+- 💼 Atuo como **Desenvolvedor de Software** na [MC Sistemas](https://webmc.com.br/), contribuindo com soluções robustas e inovadoras para diferentes setores.
+- 🎓 Sou Bacharel em **Engenharia de Software** pela [UNIGRAN](https://www.unigran.br/ead), o que fundamenta minha prática e visão técnica.
 
-## 🏢 Atuação Profissional
-- 💼 **Desenvolvedor de Software** na [MC Sistemas](https://webmc.com.br/)
-- 🎓 Bacharel em **Engenharia de Software** – [UNIGRAN](https://www.unigran.br/ead)
-
----
-
-## 📱 Especialidades
-- **Delphi** e **Golang**
-- Bancos de dados **SQL**
+## 📱 **Especialidades**
+- Desenvolvimento utilizando **Golang** e **Delphi**.
+- Bancos de Dados **SQL**
 - **Docker** e **Containers**
-- Arquitetura limpa, boas práticas e foco em qualidade
+- Engajado na criação de sistemas escaláveis e inovadores, aplicando conceitos avançados de engenharia de software para resolver desafios complexos e impulsionar a transformação digital.
+- Adoto práticas ágeis e boas práticas de desenvolvimento para garantir alta performance e qualidade em meus projetos.
 
----
+## 🚀 **O que me motiva:**
+- Criar soluções tecnológicas que transformem processos e impactem positivamente a vida das pessoas.
+- Compartilhar conhecimento e aprender continuamente, contribuindo para o crescimento da comunidade de desenvolvedores.
 
-## 🚀 O que me motiva
-- Resolver problemas reais com tecnologia
-- Criar sistemas robustos e escaláveis
-- Aprender continuamente e compartilhar conhecimento
+## 📊 **Estatísticas no GitHub**
 
----
+![Altair's GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=Altair-Mateus&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-## 📊 Estatísticas no GitHub
+## 📌 **Projetos em Destaque**
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Altair-Mateus&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
+[![Readme Card](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Altair-Mateus&repo=vendas-ingresso&theme=dark&hide_border=true)](https://github.com/Altair-Mateus/vendas-ingresso)
 
----
+[![Readme Card](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Altair-Mateus&repo=Sistema_Financeiro&theme=dark&hide_border=true)](https://github.com/Altair-Mateus/Sistema_Financeiro)
 
-## 📌 Projetos em Destaque
+[![Readme Card](https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Altair-Mateus&repo=DaoRTTI4D&theme=dark&hide_border=true)](https://github.com/Altair-Mateus/DaoRTTI4D)
 
-<p align="center">
-  <a href="https://github.com/Altair-Mateus/vendas-ingresso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=vendas-ingresso&theme=dark&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Altair-Mateus/Sistema_Financeiro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=Sistema_Financeiro&theme=dark&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Altair-Mateus/DaoRTTI4D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Altair-Mateus&repo=DaoRTTI4D&theme=dark&cache_seconds=1800" />
-  </a>
-</p>
+## 🚀 **Linguagens Mais Usadas**
 
----
-
-## 🚀 Linguagens Mais Usadas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altair-Mateus&layout=compact&theme=dark&langs_count=8&cache_seconds=1800"
-  />
-</p>
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Altair-Mateus&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
